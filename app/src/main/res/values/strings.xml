@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlphaNews</string>
+    <string name="home">Home</string>
+    <string name="headlines">Headlines</string>
+    <string name="following">Following</string>
+    <string name="news_stand">Newsstand</string>
+</resources>
