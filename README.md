@@ -11,7 +11,9 @@ Collections of UI clones of various apps using Jetpack Compose **Work in progres
     <td><img src="screenshots/alphanews/home1.png" width=270></td>
     <td><img src="screenshots/alphanews/home2.png" width=270></td>
   </tr>
-  
+ </table>
+ 
+ <table>
   <tr>
     <td>Alpha Pay Home 1</td>
      <td>Alpha Pay Home 2</td>
