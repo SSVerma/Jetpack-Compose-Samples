@@ -4,4 +4,9 @@
     <string name="headlines">Headlines</string>
     <string name="following">Following</string>
     <string name="news_stand">Newsstand</string>
+    <string name="title_activity_alpha_pay_home">My Compose App</string>
+
+    <string name="alpha_pay_game_banner_title">Unlimited fun on Go India continues!</string>
+    <string name="alpha_pay_game_banner_description">More events, new rewards &amp;
+        more fun with our game extension. Don\'t miss any of it!</string>
 </resources>

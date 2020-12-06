@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AlphaNews">
         <activity
-            android:name="com.ssverma.uiclone.alphanews.HomeActivity"
+            android:name=".alphapay.AlphaPayHomeActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.AlphaNews.NoActionBar">
             <intent-filter>
@@ -21,6 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".alphanews.HomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AlphaNews.NoActionBar"/>
     </application>
 
 </manifest>
